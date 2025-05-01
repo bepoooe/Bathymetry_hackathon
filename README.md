@@ -1,4 +1,4 @@
-# Bathymetry Hackathon
+# Bathymetry SIH demo
 
 ## Project Overview
 This project contains tools for analyzing bathymetry (underwater depth) data, particularly focused on Lake Chilka.
